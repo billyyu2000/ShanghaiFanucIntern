@@ -36,7 +36,7 @@
 
 ---
 
-## ⚠️ Important Note
+##
 
 Due to company confidentiality policies, the complete implementation code and proprietary algorithms cannot be publicly released. This README provides a comprehensive technical description of the methodology, system architecture, and results.
 
